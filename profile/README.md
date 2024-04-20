@@ -1,6 +1,6 @@
 <div align=center>
 	<img src="https://s2.loli.net/2024/03/06/1YbzVBqaMo5Qg4k.jpg" style="width:100px;"/>
-  <h2>异猫工作群(异猫软件)</h2>
+  <h2>异猫工作群</h2>
 </div>
 
 <div align=center>
