@@ -8,6 +8,6 @@
 
 我们希望能够为用户提供更好的体验！
 
-主站: mutantcat.org <br/>
-备站: mutantcat.top
+主站: www.mutantcat.org <br/>
+备站: www.mutantcat.top
 </div>
