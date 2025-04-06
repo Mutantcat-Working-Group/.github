@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://s2.loli.net/2025/01/11/PD45Ov2gzl8QfTU.jpg" style="width:100px;"/>
+	<img src="https://s2.loli.net/2025/01/11/PD45Ov2gzl8QfTU.jpg" style="width:100px;" width="100"/>
 </div>
 
 <div align=center>
