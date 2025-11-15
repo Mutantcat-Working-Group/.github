@@ -35,7 +35,7 @@
 | **回声** | 🆓 免费 + 🔓 开源 | 轻量级服务器状态播报 | [查看详情](https://www.mutantcat.org/software/echoes) |
 | **云阶** | 🆓 免费 + 🔓 开源 | 接口负载均衡、代理、无感更新解决方案 | [查看详情](https://www.mutantcat.org/software/cloudstep) |
 | **蜂巢工具箱** | 🆓 免费 + 🔓 开源 | 可高度自定义的离线工具箱 | [查看详情](https://www.mutantcat.org/software/honeycomb) |
-| **哎纸娃娃** | 💰 付费 | 像素游戏行走图生成 | [查看详情](https://www.mutantcat.org/software/ipaperdoll) |
+| **哎纸娃娃** | 🆓 免费 + 🔓 开源 | 像素游戏行走图生成 | [查看详情](https://www.mutantcat.org/software/ipaperdoll) |
 
 ### 🌐 网站服务
 
