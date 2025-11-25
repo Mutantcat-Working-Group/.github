@@ -4,22 +4,16 @@
 
 <div align=center>
 
-我们承诺软件安全、可靠、不强制更新！
-
-我们希望能够为用户提供更好的体验！
+因为创造，所以存在。
 </div>
 
-# 🐱 异猫工作群 (Mutantcat)
-
-> **因为创造，所以存在！**
-
-## 🌟 组织简介
+### 组织简介
 
 异猫工作群是一个充满创造力的开源技术团队，致力于开发高质量的软件工具、游戏和服务。
 
-## 🛠️ 主要产品
+### 软件工具
 
-### 💻 软件工具
+<div align="center">
 
 | 项目 | 状态 | 描述 | 链接 |
 |------|------|------|------|
@@ -37,7 +31,11 @@
 | **蜂巢工具箱** | 🆓 免费 + 🔓 开源 | 可高度自定义的离线工具箱 | [查看详情](https://www.mutantcat.org/software/honeycomb) |
 | **哎纸娃娃** | 🆓 免费 + 🔓 开源 | 像素游戏行走图生成 | [查看详情](https://www.mutantcat.org/software/ipaperdoll) |
 
-### 🌐 网站服务
+</div>
+
+### 网站服务
+
+<div align="center">
 
 | 网站名称 | 描述 | 链接 |
 |----------|------|------|
@@ -51,7 +49,11 @@
 | **科学导航** | 科学学习资源导航网站，收录各学科优质学习资源 | [science.mutantcat.org](https://science.mutantcat.org/) |
 | **LaTeX 阅读器** | 在线 Web LaTeX 阅读器，支持实时预览和编辑 | [latexreader.mutantcat.org](https://latexreader.mutantcat.org/) |
 
-### 💼 专业服务
+</div>
+
+### 专业服务
+
+<div align="center">
 
 | 服务 | 类型 | 描述 |
 |------|------|------|
@@ -60,9 +62,9 @@
 | **编程协助** | 🆓 免费 | 编程问题求助 |
 | **开发者福利** | 🆓 公益 | 给开发者的低价/折扣/免费服务器、软件、服务等信息 |
 
-## 👥 团队成员
+</div>
 
-### 🎯 核心贡献者
+### 核心贡献者
 
 - **黑米** - 变异臭猫
 - **tyza66** - 开发、设计
@@ -71,13 +73,13 @@
 - **usercvsuperman** - 开发
 - **Hre-11** - 开发
 
-## 🤝 支持我们
+### 支持我们
 
 您的支持就是我们最大的动力！
 
 - **爱发电**: [https://afdian.com/a/mutantcat](https://afdian.com/a/mutantcat)
 
-## 📞 联系我们
+### 联系我们
 
 - **官方网站**: [https://www.mutantcat.org/](https://www.mutantcat.org/)
 - **备用网站**: [https://www.mutantcat.top/](https://www.mutantcat.top/)
