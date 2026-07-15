@@ -58,7 +58,6 @@
 | 🧮 **芒格中文网** | 传播查理·芒格的思想、投资哲学、多元思维模型及平生事迹 | [mungercn.top](https://www.mungercn.top/) | 🤝 |
 | 🤖 **TokenGet** | AI 资讯聚合：最新动态、免费 Token 攻略、大模型价格对比、优质工具推荐 | [tokenget.top](https://www.tokenget.top/) | 🤝 |
 | 🎨 **IconPin** | 在线图标制作：SVG 设计、在线 PS 修图、去水印、换底 | [iconp.in](https://www.iconp.in/) | 🤝 |
-| 📢 **公告中心** | 官方公告与重要通知 | [notice.mutantcat.org](https://notice.mutantcat.org/) | 🧬 |
 | 🕹️ **FC/NES 游戏** | 最全的 FC/NES 游戏库，在线玩、免费下载 | [fcnesyouxi.top](https://www.fcnesyouxi.top/) | 🧬 |
 | 🎮 **街机游戏** | 经典街机在线玩，本地/网络 Rom 一键模拟 | [jiejiyouxi.top](https://www.jiejiyouxi.top/) | 🧬 |
 | 🚀 **鸡犬升天** | 考研 / 考公 / 考证等学习资料分享社区 | [jqshengtian.top](https://www.jqshengtian.top/) | 🧬 |
