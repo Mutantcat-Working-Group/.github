@@ -70,7 +70,7 @@
 | 🐄 **CowCowClock** | 黑白风格专注时钟，点击 k 牛保持专注，支持多语言 | [cowcowclock.mutantcat.org](https://cowcowclock.mutantcat.org/) | 🧬 |
 | 🖼️ **在线白板** | 免费开箱即用：画笔、便签、思维导图、流程图、多画板 | [whiteboard.mutantcat.org](https://whiteboard.mutantcat.org/) | 🧬 |
 
-🌍 对应主页：<https://www.mutantcat.org/service> · <https://www.mutantcat.org/software>
+🌍 对应主页：<https://www.mutantcat.org.cn/website>
 
 ---
 
@@ -82,6 +82,8 @@
 | 🧹 **电脑服务** | 💰 付费 | 电脑清理、弹窗去除、软件安装 |
 | 👨‍💻 **编程协助** | 🆓 免费 | 编程问题求助与排错 |
 | 🎁 **开发者福利** | 🆓 公益 | 低价 / 折扣 / 免费服务器、软件、服务信息汇总 |
+
+🌍 相关主页：<https://www.mutantcat.org/service> ·
 
 ---
 
