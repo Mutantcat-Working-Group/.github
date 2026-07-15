@@ -50,18 +50,46 @@
 
 ## 🌐 网站服务
 
-| 网站 | 简介 | 链接 |
-| :--- | :--- | :--- |
-| 📚 **函数库** | 全世界开发者的函数库，函数速查，支持 MCP 接入 | [functioncool.xyz](https://www.functioncool.xyz/) |
-| 🕹️ **FC/NES 游戏** | 最全的 FC/NES 游戏网站，在线玩、免费下载 | [fcnesyouxi.top](https://www.fcnesyouxi.top/) |
-| 🎮 **街机游戏** | 经典街机在线玩，本地与远程 Rom 一键模拟 | [jiejiyouxi.top](https://www.jiejiyouxi.top/) |
-| 🚀 **鸡犬升天** | 数字藏品 / 资源分享社区 | [jqshengtian.top](https://www.jqshengtian.top/) |
-| 🥤 **饮料百科** | 搜罗全世界的各种饮料信息，避免它们消失 | [beverage.wiki](https://beverage.wiki/) |
-| 📄 **PDF 阅读器** | 在线 Web PDF 阅读器 | [pdfreader.mutantcat.org](https://pdfreader.mutantcat.org/) |
-| 📝 **Markdown 阅读器** | 在线 Web Markdown 阅读器 | [markdownreader.mutantcat.org](https://markdownreader.mutantcat.org/) |
-| 🔬 **科学导航** | 科学学习资源导航，收录各学科优质学习资源 | [science.mutantcat.org](https://science.mutantcat.org/) |
-| 🧮 **LaTeX 阅读器** | 在线 LaTeX 阅读器，支持实时预览与编辑 | [latexreader.mutantcat.org](https://latexreader.mutantcat.org/) |
-| 📢 **公告中心** | 官方公告与重要通知 | [notice.mutantcat.org](https://notice.mutantcat.org/) |
+> 16 个在线平台，覆盖开发、娱乐、阅读、效率四大场景。
+> **起源** = 🧬 团队自营 · 🤝 社区合作
+
+### 🛠️ 开发工具
+
+| 网站 | 简介 | 链接 | 起源 |
+| :--- | :--- | :--- | :---: |
+| 📚 **函数库** | 全世界开发者的函数库，函数速查，支持 MCP 接入 | [functioncool.xyz](https://www.functioncool.xyz/) | 🧬 |
+| 🧮 **芒格中文网** | 传播查理·芒格的思想、投资哲学、多元思维模型及平生事迹 | [mungercn.top](https://www.mungercn.top/) | 🤝 |
+| 🤖 **TokenGet** | AI 资讯聚合：最新动态、免费 Token 攻略、大模型价格对比、优质工具推荐 | [tokenget.top](https://www.tokenget.top/) | 🤝 |
+| 🎨 **IconPin** | 在线图标制作：SVG 设计、在线 PS、照片去水印、换底 | [iconp.in](https://www.iconp.in/) | 🤝 |
+| 📢 **公告中心** | 官方公告与重要通知 | [notice.mutantcat.org](https://notice.mutantcat.org/) | 🧬 |
+
+### 🎮 游戏 · 娱乐
+
+| 网站 | 简介 | 链接 | 起源 |
+| :--- | :--- | :--- | :---: |
+| 🕹️ **FC/NES 游戏** | 最全的 FC/NES 游戏库，在线玩、免费下载 | [fcnesyouxi.top](https://www.fcnesyouxi.top/) | 🧬 |
+| 🎮 **街机游戏** | 经典街机在线玩，本地/网络 Rom 一键模拟 | [jiejiyouxi.top](https://www.jiejiyouxi.top/) | 🧬 |
+| 🚀 **鸡犬升天** | 考研 / 考公 / 考证等学习资料分享社区 | [jqshengtian.top](https://www.jqshengtian.top/) | 🧬 |
+
+### 📖 阅读 · 学习
+
+| 网站 | 简介 | 链接 | 起源 |
+| :--- | :--- | :--- | :---: |
+| 📄 **PDF 阅读器** | 在线 Web PDF 阅读器 | [pdfreader.mutantcat.org](https://pdfreader.mutantcat.org/) | 🧬 |
+| 📝 **Markdown 阅读器** | 在线 Web Markdown 阅读器 | [markdownreader.mutantcat.org](https://markdownreader.mutantcat.org/) | 🧬 |
+| 🧪 **科学导航** | 科学学习资源导航，收录各学科优质资源 | [science.mutantcat.org](https://science.mutantcat.org/) | 🧬 |
+| 📐 **LaTeX 阅读器** | 在线 LaTeX 公式阅读与渲染，支持实时预览 | [latexreader.mutantcat.org](https://latexreader.mutantcat.org/) | 🧬 |
+| 📜 **Tao Te Ching** | The complete Tao Te Ching in original Chinese and English | [taoteching.top](https://www.taoteching.top/) | 🤝 |
+
+### 🧰 效率 · 生活
+
+| 网站 | 简介 | 链接 | 起源 |
+| :--- | :--- | :--- | :---: |
+| 🥤 **饮料百科** | 搜罗全世界的饮料信息，避免它们消失后再也找不到 | [beverage.wiki](https://beverage.wiki/) | 🧬 |
+| 🐄 **CowCowClock** | 黑白风格专注时钟，每隔一段时间产生一头牛，点击 k 牛保持专注，支持多语言 | [cowcowclock.mutantcat.org](https://cowcowclock.mutantcat.org/) | 🧬 |
+| 🖼️ **在线白板** | 免费开箱即用：画笔、便签、文本、思维导图、流程图、多画板 | [whiteboard.mutantcat.org](https://whiteboard.mutantcat.org/) | 🧬 |
+
+🌍 更多服务：<https://www.mutantcat.org/service> · 软件列表：<https://www.mutantcat.org/software>
 
 ---
 
