@@ -1,87 +1,108 @@
-<div align=center>
-	<img src="https://s2.loli.net/2025/01/11/PD45Ov2gzl8QfTU.jpg" style="width:100px;" width="100"/>
+<div align="center">
+  <img src="https://www.mutantcat.org/favicon.ico" alt="Mutantcat" width="120" />
 </div>
-
-<div align=center>
-
-因为创造，所以存在。
-</div>
-
-### 组织简介
-
-异猫工作群是一个充满创造力的开源技术团队，致力于开发高质量的软件工具、游戏和服务。
-
-### 软件工具
 
 <div align="center">
 
-| 项目 | 状态 | 描述 | 链接 |
-|------|------|------|------|
-| **魔链** | 🆓 免费 + 🔓 开源 | 多功能Linux系统命令行补全工具 | [查看详情](https://www.mutantcat.org/software/magiclink) |
-| **桌游助手** | 🆓 免费 | 桌游数据查询、规则管理、对局记录等辅助 | [查看详情](https://www.mutantcat.org/software/boardgameassistant) |
-| **MCLand** | 🆓 免费 + 🔓 开源 | Minecraft服务器通用插件 | [查看详情](https://www.mutantcat.org/software/mcland) |
-| **诗·韵** | 🆓 免费 + 🔓 开源 | 应用与环境快速部署工具 | [查看详情](https://www.mutantcat.org/software/rhyme) |
-| **仅见** | 🆓 免费 + 🔓 开源 | JavaApi快速开发框架 | [查看详情](https://www.mutantcat.org/software/justsimple) |
-| **鱼乐** | 🆓 免费 | 听自己自由的音乐 | [查看详情](https://www.mutantcat.org/software/fishmusic) |
-| **简小工具** | 🆓 免费 + 🔓 开源 | PHP通用简单小工具 | [查看详情](https://www.mutantcat.org/software/simplesmallutil) |
-| **易打印** | 💎 高级激活 | 有线打印机转网络打印机 | [查看详情](https://www.mutantcat.org/software/changeprinter) |
-| **UCatch** | 💎 高级激活 | U盘App快捷启动器 | [查看详情](https://www.mutantcat.org/software/ucatch) |
-| **回声** | 🆓 免费 + 🔓 开源 | 轻量级服务器状态播报 | [查看详情](https://www.mutantcat.org/software/echoes) |
-| **云阶** | 🆓 免费 + 🔓 开源 | 接口负载均衡、代理、无感更新解决方案 | [查看详情](https://www.mutantcat.org/software/cloudstep) |
-| **蜂巢工具箱** | 🆓 免费 + 🔓 开源 | 可高度自定义的离线工具箱 | [查看详情](https://www.mutantcat.org/software/honeycomb) |
-| **哎纸娃娃** | 🆓 免费 + 🔓 开源 | 像素游戏行走图生成 | [查看详情](https://www.mutantcat.org/software/ipaperdoll) |
+# 异猫工作群 · Mutantcat
+
+**因为创造，所以存在。**
+
+[![Website](https://img.shields.io/badge/官网-www.mutantcat.org-ffcc41?style=flat-square)](https://www.mutantcat.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Mutantcat--Working--Group-181717?style=flat-square&logo=github)](https://github.com/Mutantcat-Working-Group)
+[![Gitee](https://img.shields.io/badge/Gitee-mutantcat-C71D23?style=flat-square&logo=gitee)](https://gitee.com/mutantcat)
 
 </div>
 
-### 网站服务
+---
 
-<div align="center">
+## 📖 组织简介
 
-| 网站名称 | 描述 | 链接 |
-|----------|------|------|
-| **函数库** | 全世界开发者的函数库，函数速查，支持MCP接入 | [functioncool.xyz](https://www.functioncool.xyz/) |
-| **FC/NES游戏** | 最全的FC/NES游戏网站，在线玩，免费下载 | [fcnesyouxi.top](https://www.fcnesyouxi.top/) |
-| **鸡犬升天** | 各种考研、考公、考编、考证等资料分享 | [jqshengtian.top](https://www.jqshengtian.top/) |
-| **街机游戏** | 经典街机在线玩，在线模拟器直接玩本地和网络位置的Rom | [jiejiyouxi.top](https://www.jiejiyouxi.top/) |
-| **饮料百科** | 搜罗全世界的各种饮料信息，避免他们消失后再也找不到相关信息 | [beverage.wiki](https://beverage.wiki/) |
-| **PDF 阅读器** | 在线 Web PDF 阅读器 | [pdfreader.mutantcat.org](https://pdfreader.mutantcat.org/) |
-| **Markdown 阅读器** | 在线 Web Markdown 阅读器 | [markdownreader.mutantcat.org](https://markdownreader.mutantcat.org/) |
-| **科学导航** | 科学学习资源导航网站，收录各学科优质学习资源 | [science.mutantcat.org](https://science.mutantcat.org/) |
-| **LaTeX 阅读器** | 在线 Web LaTeX 阅读器，支持实时预览和编辑 | [latexreader.mutantcat.org](https://latexreader.mutantcat.org/) |
+**异猫工作群（Mutantcat Working Group）** 是一个充满创造力的开源技术团队，专注于开发高质量的**软件工具、游戏与服务**。我们坚持「因为创造，所以存在」的开源信念，欢迎任何人复刻、二次开发并贡献代码。
 
-</div>
+---
 
-### 专业服务
+## 🧩 软件工具
 
-<div align="center">
+> 13 款自研应用，覆盖开发、办公、娱乐、系统工具四大场景。
+> **平台** = 🪟 Windows · 🍎 macOS · 🐧 Linux · 🤖 Android
 
-| 服务 | 类型 | 描述 |
-|------|------|------|
-| **远程协助** | 💰 付费 | 安装、激活、维护 |
-| **电脑服务** | 💰 付费 | 电脑清理、去广告、装软件等 |
-| **编程协助** | 🆓 免费 | 编程问题求助 |
-| **开发者福利** | 🆓 公益 | 给开发者的低价/折扣/免费服务器、软件、服务等信息 |
+| 项目 | 状态 | 平台 | 简介 |
+| :--- | :---: | :---: | :--- |
+| **🐜 蚂蚁终端 AntShell** | 💎 付费 | 🪟🍎🐧 | 全平台 SSH/FTP/本地终端客户端，AI 协作远控 |
+| **🔗 魔链 MagicLink** | 🆓 免费 · 🔓 开源 | 🐧 | Linux 命令行补全与脚本链式调用工具 |
+| **🎲 桌游助手 BoardGameAssistant** | 🆓 免费 | 🤖 | 桌游数据查询、规则管理与对局记录 |
+| **⛏️ MCLand** | 🆓 免费 · 🔓 开源 | 🪟🍎🐧 | Minecraft 通用插件与服务端工具 |
+| **🎵 诗·韵 Rhyme** | 🆓 免费 · 🔓 开源 | 🪟🐧 | 应用与环境快速部署工具 |
+| **🧩 仅见 JustSimple** | 🆓 免费 · 🔓 开源 | 🪟🍎🐧 | Java API 快速开发框架 |
+| **🐟 鱼乐 FishMusic** | 🆓 免费 | 🤖 | 听自己自由的音乐，本地优先 |
+| **🛠️ 简小工具 SimpleSmallUtil** | 🆓 免费 · 🔓 开源 | 🪟🍎🐧 | PHP 通用小工具集合 |
+| **🖨️ 易打印 ChangePrinter** | 💎 付费 | 🪟🤖 | 有线打印机秒变网络打印机 |
+| **💾 UCatch** | 💎 付费 | 🪟 | U 盘 App 快捷启动器 |
+| **📢 回声 Echoes** | 🆓 免费 · 🔓 开源 | 🪟🐧 | 轻量级服务器状态播报 |
+| **☁️ 云阶 CloudStep** | 🆓 免费 · 🔓 开源 | 🪟🐧 | 接口负载均衡、代理、无感更新解决方案 |
+| **🧰 蜂巢工具箱 Honeycomb** | 🆓 免费 · 🔓 开源 | 🪟🍎🐧 | 可高度自定义的离线多功能工具箱 |
+| **🎨 纸娃娃 IPaperDoll** | 🆓 免费 · 🔓 开源 | 🤖 | 像素游戏行走图生成器 |
 
-</div>
+📦 详细下载与历史版本：<https://www.mutantcat.org/software>
 
-### 核心贡献者
+---
 
-- **黑米** - 变异臭猫
-- **tyza66** - 开发、设计
-- **morsite** - 开发、设计
-- **油墨** - 美术设计
-- **usercvsuperman** - 开发
-- **Hre-11** - 开发
+## 🌐 网站服务
 
-### 支持我们
+| 网站 | 简介 | 链接 |
+| :--- | :--- | :--- |
+| 📚 **函数库** | 全世界开发者的函数库，函数速查，支持 MCP 接入 | [functioncool.xyz](https://www.functioncool.xyz/) |
+| 🕹️ **FC/NES 游戏** | 最全的 FC/NES 游戏网站，在线玩、免费下载 | [fcnesyouxi.top](https://www.fcnesyouxi.top/) |
+| 🎮 **街机游戏** | 经典街机在线玩，本地与远程 Rom 一键模拟 | [jiejiyouxi.top](https://www.jiejiyouxi.top/) |
+| 🚀 **鸡犬升天** | 数字藏品 / 资源分享社区 | [jqshengtian.top](https://www.jqshengtian.top/) |
+| 🥤 **饮料百科** | 搜罗全世界的各种饮料信息，避免它们消失 | [beverage.wiki](https://beverage.wiki/) |
+| 📄 **PDF 阅读器** | 在线 Web PDF 阅读器 | [pdfreader.mutantcat.org](https://pdfreader.mutantcat.org/) |
+| 📝 **Markdown 阅读器** | 在线 Web Markdown 阅读器 | [markdownreader.mutantcat.org](https://markdownreader.mutantcat.org/) |
+| 🔬 **科学导航** | 科学学习资源导航，收录各学科优质学习资源 | [science.mutantcat.org](https://science.mutantcat.org/) |
+| 🧮 **LaTeX 阅读器** | 在线 LaTeX 阅读器，支持实时预览与编辑 | [latexreader.mutantcat.org](https://latexreader.mutantcat.org/) |
+| 📢 **公告中心** | 官方公告与重要通知 | [notice.mutantcat.org](https://notice.mutantcat.org/) |
+
+---
+
+## 💼 专业服务
+
+| 服务 | 类型 | 简介 |
+| :--- | :---: | :--- |
+| 🖥️ **远程协助** | 💰 付费 | 软件安装、激活、远程维护 |
+| 🧹 **电脑服务** | 💰 付费 | 电脑清理、弹窗去除、软件安装 |
+| 👨‍💻 **编程协助** | 🆓 免费 | 编程问题求助与排错 |
+| 🎁 **开发者福利** | 🆓 公益 | 低价 / 折扣 / 免费服务器、软件、服务信息汇总 |
+
+---
+
+## 🧠 核心贡献者
+
+| 成员 | 角色 |
+| :--- | :--- |
+| **黑米** | 变异臭猫 |
+| **tyza66** | 开发 · 设计 |
+| **morsite** | 开发 · 设计 |
+| **油墨** | 美术设计 |
+| **usercvsuperman** | 开发 |
+| **Hre-11** | 开发 |
+
+---
+
+## 💖 支持我们
 
 您的支持就是我们最大的动力！
 
-- **爱发电**: [https://afdian.com/a/mutantcat](https://afdian.com/a/mutantcat)
+- **爱发电**: <https://afdian.com/a/mutantcat>
 
-### 联系我们
+---
 
-- **官方网站**: [https://www.mutantcat.org/](https://www.mutantcat.org/)
-- **备用网站**: [https://www.mutantcat.top/](https://www.mutantcat.top/)
-- **GitHub组织**: [Mutantcat](https://github.com/Mutantcat-Working-Group)
-- **Gitee**: [Mutantcat](https://gitee.com/mutantcat)
+## 📮 联系我们
+
+| 渠道 | 地址 |
+| :--- | :--- |
+| 🌍 官方网站 | <https://www.mutantcat.org/> |
+| 🇨🇳 国内镜像 | <https://www.mutantcat.org.cn/> |
+| 💻 GitHub 组织 | [Mutantcat-Working-Group](https://github.com/Mutantcat-Working-Group) |
+| 🪶 Gitee | [mutantcat](https://gitee.com/mutantcat) |
+| 📺 微博 | [@异猫工作群](https://weibo.com/u/7913641434) |
