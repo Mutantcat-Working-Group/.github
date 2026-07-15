@@ -83,7 +83,7 @@
 | 👨‍💻 **编程协助** | 🆓 免费 | 编程问题求助与排错 |
 | 🎁 **开发者福利** | 🆓 公益 | 低价 / 折扣 / 免费服务器、软件、服务信息汇总 |
 
-🌍 相关主页：<https://www.mutantcat.org/service> ·
+🌍 相关主页：<https://www.mutantcat.org/service>
 
 ---
 
