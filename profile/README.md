@@ -24,7 +24,7 @@
 
 ## 🧩 软件工具
 
-> 13 款自研应用，覆盖开发、办公、娱乐、系统工具四大场景。
+> 14 款自研应用，覆盖开发、办公、娱乐、系统工具四大场景。
 > **平台** = 🪟 Windows · 🍎 macOS · 🐧 Linux · 🤖 Android
 
 | 项目 | 状态 | 平台 | 简介 |
@@ -48,12 +48,29 @@
 
 ---
 
+## 🤖 AI 技能插件
+
+> 4 个挂在 Claude Code / Cursor / Codex 等 AI 编程助手上的技能包。
+> 装上之后，模型写代码前先查资料，产出自带引用标签，出处可审计。
+
+| 插件 | 能力 | 简介 |
+| :--- | :--- | :--- |
+| 🧮 **FunctionCool Skill** | 查函数 | 写实现前查函数库方法索引，剥离源码只留接口签名 |
+| 🎨 **StyleCool Skill** | 查设计 | 写 CSS 前查设计规范卡片，附反模式清单 |
+| 🎬 **VideoSpace** | 做视频 | 9 个 Skill 串起完整产线：策划、分镜、提示词、单镜、成片 |
+| 🐜 **AntShell Skill** | 运维终端 | 装进 AntShell，AI 直接操作命令行与文件传输 |
+
+📦 源码仓库：[FunctionCool-Skill](https://github.com/Mutantcat-Working-Group/FunctionCool-Skill) · [StyleCool-Skill](https://github.com/Mutantcat-Working-Group/StyleCool-Skill) · [VideoSpace](https://github.com/Mutantcat-Working-Group/VideoSpace) · [AntShell-Skill](https://github.com/Mutantcat-Working-Group/AntShell-Skill)
+
+---
+
 ## 🌐 网站服务
 
 > 16 个在线平台，覆盖开发、娱乐、阅读、效率四大场景。**起源** = 🧬 自营 · 🤝 合作
 
 | 网站 | 简介 | 链接 | 起源 |
 | :--- | :--- | :--- | :---: |
+| 🌐 **官方网站** | 异猫工作群官网：软件下载、账号授权、工单与服务介绍 | [mutantcat.org](https://www.mutantcat.org/) | 🧬 |
 | 📚 **函数库** | 全世界开发者的函数库，函数速查，支持 MCP 接入 | [functioncool.xyz](https://www.functioncool.xyz/) | 🧬 |
 | 🧮 **芒格中文网** | 传播查理·芒格的思想、投资哲学、多元思维模型及平生事迹 | [mungercn.top](https://www.mungercn.top/) | 🤝 |
 | 🤖 **TokenGet** | AI 资讯聚合：最新动态、免费 Token 攻略、大模型价格对比、优质工具推荐 | [tokenget.top](https://www.tokenget.top/) | 🤝 |
